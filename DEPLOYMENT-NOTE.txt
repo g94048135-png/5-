@@ -1,0 +1,7 @@
+5ner.store
+Soft Pastel theme
+Theme ID: pastel
+Layouts: basic, project, minimal, gallery
+
+Upload every file in this folder to the web root for this domain.
+Each site includes four portfolio layouts. Use #/basic, #/project, #/minimal, or #/gallery.
